@@ -1,0 +1,82 @@
+{
+    "photographer_api": [
+        {
+            "id": 1,
+            "name": "John Smith",
+            "email": "johnsmith@example.com",
+            "phone": "123-456-7890",
+            "image": "https://example.com/images/johnsmith.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "email": "janesmith@example.com",
+            "phone": "555-555-5555",
+            "image": "https://example.com/images/janesmith.jpg"
+        },
+        {
+            "id": 3,
+            "name": "David Johnson",
+            "email": "davidjohnson@example.com",
+            "phone": "555-123-4567",
+            "image": "https://example.com/images/davidjohnson.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Emily Davis",
+            "email": "emilydavis@example.com",
+            "phone": "555-987-6543",
+            "image": "https://example.com/images/emilydavis.jpg"
+        },
+        {
+            "id": 5,
+            "name": "William Brown",
+            "email": "williambrown@example.com",
+            "phone": "555-111-2222",
+            "image": "https://example.com/images/williambrown.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Sarah Wilson",
+            "email": "sarahwilson@example.com",
+            "phone": "555-444-5555",
+            "image": "https://example.com/images/sarahwilson.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Michael Lee",
+            "email": "michaellee@example.com",
+            "phone": "555-777-8888",
+            "image": "https://example.com/images/michaellee.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Jennifer Taylor",
+            "email": "jennifertaylor@example.com",
+            "phone": "555-222-3333",
+            "image": "https://example.com/images/jennifertaylor.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Jacob Hernandez",
+            "email": "jacobhernandez@example.com",
+            "phone": "555-444-4444",
+            "image": "https://example.com/images/jacobhernandez.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Olivia Martinez",
+            "email": "oliviamartinez@example.com",
+            "phone": "555-666-7777",
+            "image": "https://example.com/images/oliviamartinez.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Benjamin Rodriguez",
+            "email": "benjaminrodriguez@example.com",
+            "phone": "555-888-9999",
+            "image": "https://example.com/images/benjaminrodriguez.jpg"
+        },
+     
+    ]
+}
